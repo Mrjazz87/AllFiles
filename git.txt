@@ -1,0 +1,10 @@
+git add (filename) -> add file for staging
+git add . -> add all files for staging
+git commit -m "messagehere" -> commits staging
+git init -> start git in current folder
+git status -> check status on staging and show files not added for staging
+git log -> loggs commits
+
+
+git diff (filename) -> check differences on file
+git checkout (filename) -> restore file to last point of commit

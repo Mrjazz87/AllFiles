@@ -1,0 +1,6 @@
+C:\Program Files\MongoDB\Server\4.0\data\
+
+
+mogod -> starta upp servern
+mongo -> öppna mongo shell för att skriva kommandon
+help -> för att få en hjälplista i mongo shell

@@ -1,0 +1,7 @@
+urlencoded - används när vi skickar data till en server från ett formulär
+
+// API-key
+// 7ad79e1671cdd13db37f08aa4278af54-us3
+
+// LIST-ID
+// 8413e54466

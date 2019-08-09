@@ -1,0 +1,8 @@
+start (file name) -> Open
+touch (file name).txt/js/html -> Create
+rm -> Remove file
+rm * -> Remove all files
+rm -r (Name of folder)/ -> Remove folder with files
+
+ls -> list files
+ls -a -> list hidden files as well

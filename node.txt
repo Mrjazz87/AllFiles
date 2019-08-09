@@ -1,0 +1,9 @@
+npm install -g nodemon
+sudo npm install -g nodemon
+
+https://github.com/remy/nodemon/issues/1459
+npm i pstree.remy@1.1.0 -D
+
+nodemon (name of file)
+
+node (name of file)
